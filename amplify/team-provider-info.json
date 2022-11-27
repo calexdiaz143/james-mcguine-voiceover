@@ -10,6 +10,14 @@
       "StackName": "amplify-jamesmcguinevoiceove-staging-43558",
       "StackId": "arn:aws:cloudformation:us-west-1:949856822598:stack/amplify-jamesmcguinevoiceove-staging-43558/589521a0-5cc3-11ed-9e7c-02911628d753",
       "AmplifyAppId": "ds1e3v3j906m"
+    },
+    "categories": {
+      "auth": {
+        "jamesmcguinevoiceover": {}
+      },
+      "storage": {
+        "s3jamesmcguinevoiceoverstorage0ffeddbf": {}
+      }
     }
   }
 }
