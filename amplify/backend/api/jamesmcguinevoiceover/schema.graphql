@@ -1,0 +1,6 @@
+type ContactRequest @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  author: String
+  header: String
+  description: String
+}

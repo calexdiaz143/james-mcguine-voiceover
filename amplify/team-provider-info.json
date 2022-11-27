@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jamesmcguinevoiceove-staging-43558-authRole",
+      "UnauthRoleArn": "arn:aws:iam::949856822598:role/amplify-jamesmcguinevoiceove-staging-43558-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::949856822598:role/amplify-jamesmcguinevoiceove-staging-43558-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-jamesmcguinevoiceove-staging-43558-deployment",
+      "UnauthRoleName": "amplify-jamesmcguinevoiceove-staging-43558-unauthRole",
+      "StackName": "amplify-jamesmcguinevoiceove-staging-43558",
+      "StackId": "arn:aws:cloudformation:us-west-1:949856822598:stack/amplify-jamesmcguinevoiceove-staging-43558/589521a0-5cc3-11ed-9e7c-02911628d753",
+      "AmplifyAppId": "ds1e3v3j906m"
+    }
+  }
+}
