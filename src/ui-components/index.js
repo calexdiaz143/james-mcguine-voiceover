@@ -6,6 +6,7 @@
 
 export { default as ProductCard } from "./ProductCard";
 export { default as SocialPost } from "./SocialPost";
+export { default as HomePage } from "./HomePage";
 export { default as HeroLayout1 } from "./HeroLayout1";
 export { default as NavBar } from "./NavBar";
 export { default as FeaturesText2x2 } from "./FeaturesText2x2";
@@ -33,5 +34,5 @@ export { default as SideBar } from "./SideBar";
 export { default as MarketingFooter } from "./MarketingFooter";
 export { default as EditProfile } from "./EditProfile";
 export { default as studioTheme } from "./studioTheme";
-export { default as ContactRequestCreateForm } from "./ContactRequestCreateForm";
 export { default as ContactRequestUpdateForm } from "./ContactRequestUpdateForm";
+export { default as ContactRequestCreateForm } from "./ContactRequestCreateForm";
