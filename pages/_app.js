@@ -8,6 +8,8 @@ import { studioTheme } from '../src/ui-components'
 
 import '@aws-amplify/ui-react/styles.css'
 
+Amplify.configure(config)
+
 function MyApp({ Component, pageProps }) {
   return (
     <AmplifyProvider theme={studioTheme}>

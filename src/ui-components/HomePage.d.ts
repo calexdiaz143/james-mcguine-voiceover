@@ -6,8 +6,8 @@
 
 import * as React from "react";
 import { EscapeHatchProps } from "@aws-amplify/ui-react/internal";
-import { ViewProps } from "@aws-amplify/ui-react";
-export declare type HomePageProps = React.PropsWithChildren<Partial<ViewProps> & {
+import { FlexProps } from "@aws-amplify/ui-react";
+export declare type HomePageProps = React.PropsWithChildren<Partial<FlexProps> & {
     overrides?: EscapeHatchProps | undefined | null;
 }>;
 export default function HomePage(props: HomePageProps): React.ReactElement;
